@@ -347,6 +347,7 @@ Video taken with my rig...
 --SLIDE--
 <!-- Topic: Interesting workflows ... -->
 
+Structure From Motion (SFM)
 <img style="max-height: 450px;" src="images/single.jpg">
 <br>
 200 of these
