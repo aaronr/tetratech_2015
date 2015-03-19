@@ -441,6 +441,67 @@ Farm
 <br>
 Compare (PhotoScan vs VSFM)
 
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Interesting workflows ... -->
+
+Panoramic image stitching
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/google.png">
+<br>
+... as good as Google gets
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/agisoft_stitch.png">
+<br>
+AgiSoft
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/photoscan_stitch_180_small.jpg">
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Interesting workflows ... -->
+
+OSM data creation / Web Maps
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/qgis.png">
+<br>
+QGIS Warper
+
+--SUBSLIDE--
+
+<pre><code>
+gdal2tiles.py --profile=mercator -z 1-22 yourmap.tif outputfolder
+</code></pre>
+
+--SUBSLIDE--
+
+http://langleywa.github.io/gisdata/tiles/langley-2nd-street-2014/21/335500/1368498.png
+<br>
+<img style="max-height: 450px;" src="images/tile.png">
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/langley_test_app_stitch.png">
+<br>
+Tiles into your App!
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/id.png">
+<br>
+Edit in OSM
+http://ideditor.com/
+https://www.openstreetmap.org/edit?editor=id#map=19/48.03979/-122.40668
+<small>http://langleywa.github.io/gisdata/tiles/langley-2nd-street-2014-tms/{z}/{x}/{y}.png</small>
+
 
 <!------------------------------------------------------------>
 --SLIDE--
