@@ -417,7 +417,49 @@ Flight Paths
 <br>
 Photoscan SFM Rendering
 
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Examples ... -->
+
+<img style="max-height: 450px;" src="images/palouse1.jpg">
+<br>
+Palouse Falls WA
+
 --SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/palouse2.jpg">
+<br>
+Example Image
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/palouse3.jpg">
+<br>
+SFM Output
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Examples ... -->
+
+<img style="max-height: 450px;" src="images/silo1.jpg">
+<br>
+Grain Silo WA
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/silo2.jpg">
+<br>
+Example Image
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/silo3.jpg">
+<br>
+SFM Output
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Examples ... -->
 
 <img style="max-height: 450px;" src="images/chewy_textured.png">
 <br>
